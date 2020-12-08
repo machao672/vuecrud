@@ -2,7 +2,7 @@
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
     哈哈哈
-    我是第一个客户端提交的代码
+    我是第二个客户端打开的代码
     <HelloWorld msg="Welcome to Your Vue.js App"/>
   </div>
 </template>
